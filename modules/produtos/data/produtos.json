@@ -1,0 +1,15 @@
+[
+    {
+        "codigo": "P011",
+        "nome": "Notebook Asus Tuf Gaming",
+        "categoria": "Informática",
+        "preco": 5200.0,
+        "estoque": 5,
+        "minimo": 1,
+        "fornecedor": "Asus",
+        "descricao": "Notebook Gamer da Asus",
+        "imagem": null,
+        "data_cadastro": "2025-03-10 15:47:54",
+        "id": 1
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "data": "2025-03-09 23:29:28",
+        "cliente": "Consumidor Final",
+        "forma_pagamento": "PIX",
+        "subtotal": 5799.98,
+        "desconto": 200.0,
+        "total": 5599.98,
+        "itens": [
+            {
+                "id": 3,
+                "codigo": "P003",
+                "nome": "Smart TV LG 50\"",
+                "quantidade": 2,
+                "preco": 2899.99,
+                "total": 5799.98
+            }
+        ],
+        "id": 1
+    },
+    {
+        "data": "2025-03-10 20:48:37",
+        "cliente": "Consumidor Final",
+        "forma_pagamento": "Dinheiro",
+        "subtotal": 1399.8,
+        "desconto": 100.0,
+        "total": 1299.8,
+        "itens": [
+            {
+                "id": 15,
+                "codigo": "2483681976371",
+                "nome": "Micro-ondas Consul",
+                "quantidade": 2,
+                "preco": 699.9,
+                "total": 1399.8
+            }
+        ],
+        "id": 2
+    },
+    {
+        "data": "2025-03-10 20:50:51",
+        "cliente": "Consumidor Final",
+        "forma_pagamento": "Dinheiro",
+        "subtotal": 1399.8,
+        "desconto": 180.0,
+        "total": 1219.8,
+        "itens": [
+            {
+                "id": 15,
+                "codigo": "2483681976371",
+                "nome": "Micro-ondas Consul",
+                "quantidade": 2,
+                "preco": 699.9,
+                "total": 1399.8
+            }
+        ],
+        "id": 3
+    }
+]
